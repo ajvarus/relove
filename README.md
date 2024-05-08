@@ -1,2 +1,2 @@
 # relove
-The backed for a retail thrift shop app
+The backend for a retail thrift shop app.
